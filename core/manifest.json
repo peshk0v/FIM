@@ -1,0 +1,9 @@
+{
+  "Name": "BaseApp",
+  "Version": 1.0,
+  "Icon": "icon.png",
+  "InstallType": 0,
+  "InstallData": "peshk0v/FIM",
+  "ExecutableFile": "app.exe",
+  "ExeArguments": ""
+}
